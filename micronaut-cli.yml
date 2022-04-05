@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle_kotlin
+features: [app-name, data-mongodb, gradle, groovy, groovy-application, http-client, jackson-databind, logback, micronaut-build, mongo-reactive, mongo-sync, netty-server, readme, shade, spock, testcontainers, yaml]
